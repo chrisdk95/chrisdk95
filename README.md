@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chrisdk95
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Python
+- 💞️ I’m looking to collaborate on Software Development
 - 📫 How to reach me chrisdike95@gmail.com
 
 <!---
