@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Christopher Dike
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Python & Java
+- 🌱 I’m currently learning Front End Web Development
 - 💞️ I’m looking to collaborate on Software Development Projects
 - 📫 How to reach me chrisdike95@gmail.com
 
